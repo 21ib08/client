@@ -13,10 +13,6 @@ const supabase = createClient(
   }
 );
 
-/**
- * Gets all image URLs from the home_carousel folder in your bucket
- * @returns Array of public image URLs
- */
 export async function getHomeCarouselImages(): Promise<string[]> {
   try {
     // List all files in the home_carousel folder
