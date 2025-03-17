@@ -1,0 +1,257 @@
+{
+  "home": {
+    "subtitle": "Svatyně elegance",
+    "title": "Luxus se setkává s klidem",
+    "booking-button": "Začněte svou cestu",
+    "accommodations": "Naše ubytování",
+    "accommodations-deb": "Vyberte si dokonalý pobyt z našich pečlivě navržených pokojů",
+    "from": "Od",
+    "night": "noc",
+    "details": "Zobrazit detaily",
+    "services": "Naše služby",
+    "services-deb": "Objevte, co dělá Biokolnu jedinečným zážitkem",
+    "guests": "Zkušenosti hostů",
+    "guests-deb": "Co říkají naši hosté o svém pobytu",
+    "ig": "Sledujte naši cestu",
+    "ig-deb": "Sdílejte své momenty s",
+    "location": "Kde nás najdete",
+    "location-desc": "Nacházíme se v historickém centru Jičína, náš resort nabízí snadný přístup k místním atrakcím a přírodním krásám Českého ráje",
+    "resort_name": "apartmá - Jičín",
+    "visit-us": "Navštivte Bio Kolna Resort v Jičíně",
+    "address": "Adresa",
+    "address-line1": "apartmá",
+    "address-line2": "Valdštejnovo náměstí 1",
+    "address-line3": "506 01 Jičín, Česká republika",
+    "contact-info": "Kontaktní informace",
+    "phone": "Telefon",
+    "email": "Email",
+    "opening-hours": "Otevírací doba",
+    "reception": "Recepce",
+    "restaurant": "Restaurace"
+  },
+  "booking": {
+    "eyebrow": "Váš dokonalý pobyt čeká",
+    "title": "Rezervujte si pobyt",
+    "subtitle": "Rezervujte si svůj ideální pobyt s naším snadným rezervačním procesem a využijte exkluzivní ceny",
+    "available-rooms": "Dostupné pokoje",
+    "choose-from": "Vyberte si z naší nabídky luxusních pokojů a apartmánů, které jsou navrženy tak, aby vám poskytly maximální pohodlí a relaxaci během pobytu.",
+    "from": "Od",
+    "night": "noc",
+    "up-to": "Až",
+    "guests": "hosté",
+    "per-night": "za noc",
+    "book-now": "Rezervovat nyní",
+    "hotel-amenities": "Vybavení hotelu",
+    "experience-luxury": "Zažijte luxus a pohodlí s naší širokou nabídkou služeb a vybavení",
+    "hotel-policies": "Pravidla hotelu",
+    "important-information": "Důležité informace pro zajištění pohodlného pobytu",
+    "guest-reviews": "Hodnocení hostů",
+    "discover-what-guests-say": "Zjistěte, co naši hosté říkají o svém pobytu",
+    "based-on": "Na základě",
+    "reviews": "hodnocení",
+    "frequently-asked-questions": "Často kladené otázky",
+    "find-answers": "Najděte odpovědi na běžné otázky týkající se vašeho pobytu",
+    "no-rooms-available": "Momentálně nejsou k dispozici žádné pokoje",
+    "check-back-later": "Zkontrolujte dostupnost později, prosím",
+    "amenities-not-available": "Vybavení není k dispozici",
+    "faq": {
+      "check-in-times": {
+        "question": "Jaké jsou časy příjezdu a odjezdu?",
+        "answer": "Čas příjezdu je od 15:00 a čas odjezdu je do 11:00. Dřívější příjezd a pozdější odjezd lze domluvit podle dostupnosti."
+      },
+      "breakfast": {
+        "question": "Je snídaně zahrnuta v ceně pokoje?",
+        "answer": "Ano, všechny naše ceny pokojů zahrnují snídani zdarma, která se podává v naší restauraci od 6:30 do 10:30."
+      },
+      "cancellation": {
+        "question": "Jaká je storno politika?",
+        "answer": "Bezplatné storno je možné do 24 hodin před příjezdem. Storna provedená méně než 24 hodin před příjezdem mohou podléhat poplatku ve výši jedné noci."
+      }
+    },
+    "amenities": {
+      "panoramic-views": {
+        "name": "Panoramatické výhledy",
+        "description": "Krásné výhledy na Český ráj a hory"
+      },
+      "eco-friendly": {
+        "name": "Ekologické ubytování",
+        "description": "Butikové ekologické ubytování v souladu s přírodou"
+      },
+      "local-wines": {
+        "name": "Lokální vína",
+        "description": "Výběr z moravských vinařství a italského Lagreinu"
+      },
+      "wifi": {
+        "name": "Bezplatné WiFi",
+        "description": "Vysokorychlostní internet v celém objektu"
+      },
+      "breakfast": {
+        "name": "Gurmánská snídaně",
+        "description": "Připravená z místních surovin, podávaná ve vašem apartmánu"
+      },
+      "welcome-treats": {
+        "name": "Uvítací občerstvení",
+        "description": "Prkénko s delikatesami při příjezdu"
+      },
+      "grill": {
+        "name": "Venkovní gril",
+        "description": "BBQ zařízení na dvoře"
+      },
+      "hiking": {
+        "name": "Turistické stezky",
+        "description": "Zlatá stezka Českého ráje jen 0,5 km daleko"
+      },
+      "golf": {
+        "name": "Golfové hřiště",
+        "description": "Golfové hřiště ve vzdálenosti 0,9 km"
+      },
+      "swimming": {
+        "name": "Plavání",
+        "description": "Bazén ve vzdálenosti 1,2 km"
+      }
+    },
+    "policies": {
+      "check-in": {
+        "title": "Příjezd a odjezd",
+        "description": "Příjezd od 15:00, odjezd do 11:00. Dřívější příjezd a pozdější odjezd je možný na vyžádání."
+      },
+      "cancellation": {
+        "title": "Storno podmínky",
+        "description": "Bezplatné storno do 24 hodin před příjezdem. Storna v době kratší než 24 hodin mohou být zpoplatněna cenou jedné noci."
+      },
+      "payment": {
+        "title": "Možnosti platby",
+        "description": "Přijímáme všechny hlavní platební karty. Pro potvrzení rezervace a případné další výdaje je vyžadována platná kreditní karta."
+      },
+      "smoking": {
+        "title": "Kouření",
+        "description": "Všechny pokoje a vnitřní prostory jsou přísně nekuřácké. Vyhrazené prostory pro kouření jsou k dispozici venku."
+      },
+      "pets": {
+        "title": "Domácí mazlíčci",
+        "description": "K dispozici jsou pokoje přátelské k domácím mazlíčkům s dodatečným poplatkem za úklid. Maximálně 2 zvířata na pokoj. Asistenční zvířata jsou vítána."
+      },
+      "children": {
+        "title": "Děti a přistýlky",
+        "description": "Děti do 12 let mají pobyt zdarma při využití stávajících lůžek. Dětské postýlky jsou k dispozici na vyžádání bez dodatečného poplatku."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Kontaktujte nás",
+    "title": "Jak vám můžeme pomoci?",
+    "subtitle": "Jsme tu, abychom vám pomohli s jakýmikoli dotazy",
+    "ready-to-connect": "Připraveni k propojení",
+    "questions": "Máte otázky nebo potřebujete pomoc? Jsme tu pro vás.",
+    "when-to-reach-us": "Kdy nás kontaktovat",
+    "weekdays": "Všední dny: 8:00 - 20:00",
+    "weekends": "Víkendy: 9:00 - 18:00",
+    "holidays": "Svátky: 10:00 - 16:00",
+    "our-response": "Naše odezva",
+    "response-time": "Na dotazy obvykle odpovídáme do 24 hodin.",
+    "first-name": "Jméno",
+    "last-name": "Příjmení",
+    "email": "Email",
+    "nature-of-inquiry": "Povaha dotazu",
+    "select-inquiry": "Vyberte typ dotazu",
+    "reservation-inquiry": "Dotaz na rezervaci",
+    "special-arrangements": "Speciální požadavky",
+    "hotel-services": "Hotelové služby",
+    "guest-feedback": "Zpětná vazba od hostů",
+    "other-matters": "Jiné záležitosti",
+    "your-message": "Vaše zpráva",
+    "message-placeholder": "Jak vám můžeme pomoci?",
+    "send-inquiry": "Odeslat dotaz",
+    "find-us-here": "Najdete nás zde",
+    "location-description": "Výhodně umístěni v centru města.",
+    "sending": "Odesílání...",
+    "success-title": "Zpráva odeslána",
+    "success-message": "Děkujeme za váš dotaz. Brzy se vám ozveme!",
+    "error-title": "Chyba",
+    "error-message": "Při odesílání zprávy došlo k problému. Zkuste to prosím znovu.",
+    "error-required-fields": "Vyplňte prosím všechna povinná pole",
+    "contact-info": {
+      "find-us": "Najdete nás zde",
+      "address": [
+        "apartmá",
+        "Valdštejnovo náměstí 1",
+        "506 01 Jičín, Česká republika"
+      ],
+      "call-us": "Zavolejte nám",
+      "phone": ["Recepce: +420 493 545 111", "Rezervace: +420 493 545 222"],
+      "write-to-us": "Napište nám",
+      "email": ["info@apartmá.cz", "rezervace@apartmá.cz"]
+    }
+  },
+  "links": {
+    "booking": "REZERVACE",
+    "contact": "KONTAKT",
+    "news": "AKTUALITY",
+    "surroundings": "OKOLÍ"
+  },
+  "footer": {
+    "hotel-name": "apartmá",
+    "description": "Zažijte bezkonkurenční luxus v srdci Jičína. Kde se každý pobyt stává nezapomenutelnou vzpomínkou.",
+    "follow-us": "Sledujte nás",
+    "contact": "Kontakt",
+    "address-line1": "apartmá",
+    "address-line3": "506 01 Jičín, Česká republika",
+    "phone": "Telefon",
+    "email": "Email",
+    "operating-hours": "Provozní doba",
+    "check-in": "Čas příjezdu",
+    "check-out": "Čas odjezdu",
+    "front-desk": "Recepce",
+    "room-service": "Pokojová služba",
+    "all-rights-reserved": "Všechna práva vyhrazena."
+  },
+  "surroundings": {
+    "hero-title": "Objevte Český ráj",
+    "hero-subtitle": "Prozkoumejte krásy a atrakce v okolí!",
+    "attractions-title": "Atrakce v Českém ráji",
+    "attractions-subtitle": "Zažijte to nejlepší, co Český ráj nabízí!",
+    "more-info": "Více informací",
+    "location": "Lokalita",
+    "website": "Webové stránky",
+    "visit-website": "Navštívit web",
+    "close": "Zavřít",
+    "places": {
+      "1": {
+        "title": "Zámek Hrubá Skála",
+        "description": "Prozkoumejte úchvatný zámek na skalním útvaru s dechberoucími výhledy.",
+        "fullDescription": "Zámek Hrubá Skála je jedním z nejpůsobivějších zámků v České republice. \nPůvodně byl postaven ve 14. století a dramaticky se tyčí na pískovcových skalních útvarech.\n\nZámek byl v průběhu historie několikrát přestavěn a nyní slouží jako luxusní hotel. \nNávštěvníci mohou prozkoumat zámecké prostory, užít si panoramatické výhledy na okolní krajinu \na procházet se přilehlými skalními útvary.\n\nVzdálenost od resortu: 15 km\nOtevírací doba: 9:00 - 17:00 (duben až říjen)",
+        "location": "Hrubá Skála, 511 01 Turnov"
+      },
+      "2": {
+        "title": "Prachovské skály",
+        "description": "Projděte se unikátními pískovcovými útvary a užijte si malebné stezky.",
+        "fullDescription": "Prachovské skály jsou chráněným přírodním skalním útvarem a jednou z nejpopulárnějších destinací v Českém ráji.\n\nToto úchvatné skalní město se vyznačuje vysokými pískovcovými útvary, úzkými průchody a vyhlídkami nabízejícími dechberoucí panoramata. Oblast má více než 400 jednotlivých skalních věží, z nichž některé dosahují výšky 40 metrů.\n\nNávštěvníci mohou prozkoumat dobře značené turistické stezky různé obtížnosti, což je ideální jak pro příležitostné chodce, tak pro zkušené turisty.\n\nVzdálenost od resortu: 10 km\nOtevírací doba: Otevřeno celoročně, 8:00 - 18:00 (léto), 8:00 - 16:00 (zima)",
+        "location": "Prachov 37, 506 01 Jičín"
+      },
+      "3": {
+        "title": "Turnov",
+        "description": "Navštivte půvabné město známé svým sklářstvím a historickými památkami.",
+        "fullDescription": "Turnov je historické město ležící v srdci Českého ráje, známé jako centrum broušení drahokamů a výroby šperků v České republice.\n\nMěsto se vyznačuje půvabným historickým centrem s renesančními a barokními budovami. Návštěvníci mohou prozkoumat Muzeum Českého ráje, které ukrývá působivou sbírku drahokamů a šperků.\n\nNevynechejte Synagogu, kostel sv. Mikuláše a krásné náměstí. Turnov je také vynikajícím výchozím bodem pro objevování okolních přírodních atrakcí.\n\nVzdálenost od resortu: 20 km\nHlavní atrakce: Muzeum Českého ráje, Dlaskův statek (lidová architektura)",
+        "location": "Turnov, 511 01"
+      },
+      "4": {
+        "title": "Hrad Valdštejn",
+        "description": "Objevte zříceniny tohoto středověkého hradu s panoramatickými výhledy na krajinu.",
+        "fullDescription": "Hrad Valdštejn je nejstarším hradem v oblasti Českého ráje, založeným ve 13. století rodem Markvarticů.\n\nHrad je postaven na pískovcových skalách a spojen kamenným mostem se sochami svatých. Uvnitř mohou návštěvníci prozkoumat kapli sv. Jana Nepomuckého, Klasicistní dům a užít si nádherné výhledy na okolní krajinu.\n\nHrad hostí během roku různé kulturní akce, středověké festivaly a výstavy.\n\nVzdálenost od resortu: 18 km\nOtevírací doba: 9:00 - 17:00 (duben až říjen)",
+        "location": "Turnov - Pelešany, 511 01"
+      },
+      "5": {
+        "title": "Zámek Jičín",
+        "description": "Prozkoumejte historický zámek v Jičíně, známý svou krásnou architekturou a zahradami.",
+        "fullDescription": "Jičínský zámek, nacházející se v srdci města Jičín, byl postaven na počátku 17. století Albrechtem z Valdštejna, slavným vojenským velitelem.\n\nZámek se vyznačuje krásnou renesanční a barokní architekturou. Dnes zde sídlí Regionální muzeum a galerie Jičín, které představuje historii regionu a umělecké výstavy.\n\nZámek je spojen s hlavním náměstím krytým podloubím a nedaleko můžete najít krásnou Valdštejnskou lodžii a zahrady.\n\nVzdálenost od resortu: 2 km\nOtevírací doba: 9:00 - 17:00 (úterý až neděle)",
+        "location": "Valdštejnovo náměstí 1, 506 01 Jičín"
+      },
+      "6": {
+        "title": "Pohádkové město Jičín",
+        "description": "Objevte půvabné město Jičín, proslulé svými pohádkovými souvislostmi a krásným náměstím.",
+        "fullDescription": "Jičín je znám jako \"Pohádkové město\" díky své spojitosti se slavnou českou pohádkovou postavou Rumcajse, kterou vytvořil spisovatel Václav Čtvrtek.\n\nMěsto se vyznačuje krásným hlavním náměstím s barevnými renesančními a barokními domy, kterému dominuje věž Valdická brána. Návštěvníci mohou vystoupat na věž a užít si panoramatické výhledy na město a okolní krajinu.\n\nKaždý září Jičín pořádá populární festival \"Jičín - město pohádky\", který přitahuje tisíce návštěvníků s představeními, workshopy a pohádkovými postavami.\n\nVzdálenost od resortu: 1 km\nHlavní atrakce: Valdická brána, Valdštejnské náměstí, kostel sv. Jakuba",
+        "location": "Jičín, 506 01"
+      }
+    }
+  }
+}

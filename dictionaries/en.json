@@ -1,0 +1,260 @@
+{
+  "home": {
+    "subtitle": "A Sanctuary of Elegance",
+    "title": "Luxury Meets Tranquility",
+    "booking-button": "Begin Your Journey",
+    "accommodations": "Our Accommodations",
+    "accommodations-deb": "Choose your perfect stay from our carefully designed rooms",
+    "from": "From",
+    "night": "noc",
+    "details": "View Details",
+    "services": "Our Services",
+    "services-deb": "Discover what makes Biokolna a unique experience",
+    "guests": "Guest Experiences",
+    "guests-deb": "What our guests say about their stay at Biokolna",
+    "ig": "Follow Our Journey",
+    "ig-deb": "Share your moments with",
+    "location": "Find Us",
+    "location-desc": "Located in the historic center of Jičín, our resort offers easy access to local attractions and natural beauty of the Czech Paradise region",
+    "resort_name": "Bio Kolna Resort - Jičín",
+    "visit-us": "Visit Bio Kolna Resort in Jičín",
+    "address": "Address",
+    "address-line1": "Bio Kolna Resort",
+    "address-line2": "Valdštejnovo náměstí 1",
+    "address-line3": "506 01 Jičín, Czech Republic",
+    "contact-info": "Contact Information",
+    "phone": "Phone",
+    "email": "Email",
+    "opening-hours": "Opening Hours",
+    "reception": "Reception",
+    "restaurant": "Restaurant"
+  },
+  "booking": {
+    "eyebrow": "Your Perfect Stay Awaits",
+    "title": "Book Your Stay",
+    "subtitle": "Reserve your perfect stay with our seamless booking process and enjoy exclusive rates",
+    "available-rooms": "Available Rooms",
+    "choose-from": "Choose from our selection of luxurious rooms and suites, each designed to provide you with the ultimate comfort and relaxation during your stay.",
+    "from": "From",
+    "night": "night",
+    "up-to": "Up to",
+    "guests": "guests",
+    "per-night": "per night",
+    "book-now": "Book Now",
+    "hotel-amenities": "Hotel Amenities",
+    "experience-luxury": "Experience luxury and comfort with our comprehensive range of facilities and services",
+    "hotel-policies": "Hotel Policies",
+    "important-information": "Important information to ensure a comfortable stay",
+    "guest-reviews": "Guest Reviews",
+    "discover-what-guests-say": "Discover what our guests have to say about their experience",
+    "based-on": "Based on",
+    "reviews": "reviews",
+    "frequently-asked-questions": "Frequently Asked Questions",
+    "find-answers": "Find answers to common questions about your stay",
+    "no-rooms-available": "No rooms available at the moment",
+    "check-back-later": "Please check back later for availability",
+    "amenities-not-available": "Amenities not available",
+    "faq": {
+      "check-in-times": {
+        "question": "What are the check-in and check-out times?",
+        "answer": "Check-in time is 3:00 PM and check-out time is 11:00 AM. Early check-in and late check-out can be arranged based on availability."
+      },
+      "breakfast": {
+        "question": "Is breakfast included in the room rate?",
+        "answer": "Yes, all our room rates include complimentary breakfast served at our restaurant from 6:30 AM to 10:30 AM."
+      },
+      "cancellation": {
+        "question": "What is the cancellation policy?",
+        "answer": "Free cancellation is available up to 24 hours before check-in. Cancellations made within 24 hours of check-in may be subject to a one-night charge."
+      }
+    },
+    "amenities": {
+      "panoramic-views": {
+        "name": "Panoramic Views",
+        "description": "Beautiful views of Czech Paradise and mountains"
+      },
+      "eco-friendly": {
+        "name": "Eco-Friendly",
+        "description": "Boutique eco accommodation in harmony with nature"
+      },
+      "local-wines": {
+        "name": "Local Wines",
+        "description": "Selection from Moravian wineries and Italian Lagrein"
+      },
+      "wifi": {
+        "name": "Free WiFi",
+        "description": "High-speed internet throughout the property"
+      },
+      "breakfast": {
+        "name": "Gourmet Breakfast",
+        "description": "Prepared with local ingredients, served in your apartment"
+      },
+      "welcome-treats": {
+        "name": "Welcome Treats",
+        "description": "Check-in board with delicacies upon arrival"
+      },
+      "grill": {
+        "name": "Outdoor Grill",
+        "description": "BBQ facilities in the yard"
+      },
+      "hiking": {
+        "name": "Hiking Trails",
+        "description": "Golden Trail of Czech Paradise just 0.5 km away"
+      },
+      "golf": {
+        "name": "Golf Course",
+        "description": "Golf course within 0.9 km"
+      },
+      "swimming": {
+        "name": "Swimming",
+        "description": "Swimming pool within 1.2 km"
+      }
+    },
+    "policies": {
+      "check-in": {
+        "title": "Check-in & Check-out",
+        "description": "Check-in from 3:00 PM, Check-out by 11:00 AM. Early check-in and late check-out available upon request."
+      },
+      "cancellation": {
+        "title": "Cancellation Policy",
+        "description": "Free cancellation up to 24 hours before check-in. Cancellations within 24 hours may incur a one-night charge."
+      },
+      "payment": {
+        "title": "Payment Options",
+        "description": "We accept all major credit cards. A valid credit card is required for booking confirmation and incidentals."
+      },
+      "smoking": {
+        "title": "Smoking Policy",
+        "description": "All rooms and indoor areas are strictly non-smoking. Designated smoking areas are available outdoors."
+      },
+      "pets": {
+        "title": "Pet Policy",
+        "description": "Pet-friendly rooms available with additional cleaning fee. Maximum 2 pets per room. Service animals welcome."
+      },
+      "children": {
+        "title": "Children & Extra Beds",
+        "description": "Children under 12 stay free when using existing bedding. Cribs available upon request at no additional charge."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact Us",
+    "title": "Get in Touch",
+    "subtitle": "We're here to help with any questions you might have",
+    "ready-to-connect": "Ready to Connect?",
+    "questions": "Have questions or need assistance? We're here to help.",
+    "when-to-reach-us": "When to Reach Us",
+    "weekdays": "Weekdays: 8:00 AM - 8:00 PM",
+    "weekends": "Weekends: 9:00 AM - 6:00 PM",
+    "holidays": "Holidays: 10:00 AM - 4:00 PM",
+    "our-response": "Our Response",
+    "response-time": "We typically respond to inquiries within 24 hours.",
+    "first-name": "First Name",
+    "last-name": "Last Name",
+    "email": "Email",
+    "nature-of-inquiry": "Nature of Inquiry",
+    "select-inquiry": "Select Inquiry Type",
+    "reservation-inquiry": "Reservation Inquiry",
+    "special-arrangements": "Special Arrangements",
+    "hotel-services": "Hotel Services",
+    "guest-feedback": "Guest Feedback",
+    "other-matters": "Other Matters",
+    "your-message": "Your Message",
+    "message-placeholder": "How can we help you?",
+    "send-inquiry": "Send Inquiry",
+    "find-us-here": "Find Us Here",
+    "location-description": "Conveniently located in the heart of the city.",
+    "sending": "Sending...",
+    "success-title": "Message Sent",
+    "success-message": "Thank you for your inquiry. We'll get back to you soon!",
+    "error-title": "Error",
+    "error-message": "There was a problem sending your message. Please try again.",
+    "error-required-fields": "Please fill in all required fields",
+    "contact-info": {
+      "find-us": "Find Us Here",
+      "address": [
+        "Bio Kolna Resort",
+        "Valdštejnovo náměstí 1",
+        "506 01 Jičín, Czech Republic"
+      ],
+      "call-us": "Call Us",
+      "phone": [
+        "Front Desk: +420 493 545 111",
+        "Reservations: +420 493 545 222"
+      ],
+      "write-to-us": "Write to Us",
+      "email": ["info@biokolna.cz", "reservations@biokolna.cz"]
+    }
+  },
+  "links": {
+    "booking": "BOOKING",
+    "contact": "CONTACT",
+    "news": "NEWS",
+    "surroundings": "SURROUNDINGS"
+  },
+  "footer": {
+    "hotel-name": "Bio Kolna Resort",
+    "description": "Experience unparalleled luxury in the heart of Jičín. Where every stay becomes an unforgettable memory.",
+    "follow-us": "Follow Us",
+    "contact": "Contact",
+    "address-line1": "Bio Kolna Resort",
+    "address-line3": "506 01 Jičín, Czech Republic",
+    "phone": "Phone",
+    "email": "Email",
+    "operating-hours": "Operating Hours",
+    "check-in": "Check-in Time",
+    "check-out": "Check-out Time",
+    "front-desk": "Front Desk",
+    "room-service": "Room Service",
+    "all-rights-reserved": "All rights reserved."
+  },
+  "surroundings": {
+    "hero-title": "Discover Czech Paradise",
+    "hero-subtitle": "Explore the beauty and attractions in the surrounding area!",
+    "attractions-title": "Attractions in Czech Paradise",
+    "attractions-subtitle": "Experience the best that Czech Paradise has to offer!",
+    "more-info": "More Information",
+    "location": "Location",
+    "website": "Website",
+    "visit-website": "Visit website",
+    "close": "Close",
+    "places": {
+      "1": {
+        "title": "Hrubá Skála Castle",
+        "description": "Explore the stunning castle perched on a rock formation with breathtaking views.",
+        "fullDescription": "Hrubá Skála Castle is one of the most picturesque castles in the Czech Republic. \nOriginally built in the 14th century, it sits dramatically atop sandstone rock formations.\n\nThe castle has been rebuilt several times throughout history and now serves as a luxury hotel. \nVisitors can explore the castle grounds, enjoy panoramic views of the surrounding landscape, \nand hike through the adjacent rock formations.\n\nDistance from resort: 15 km\nOpening hours: 9:00 - 17:00 (April to October)",
+        "location": "Hrubá Skála, 511 01 Turnov"
+      },
+      "2": {
+        "title": "Prachov Rocks",
+        "description": "Hike through unique sandstone formations and enjoy scenic trails.",
+        "fullDescription": "The Prachov Rocks (Prachovské skály) are a protected natural rock formation and one of the most popular destinations in Bohemian Paradise.\n\nThis stunning rock city features towering sandstone formations, narrow passages, and viewpoints offering breathtaking panoramas. The area has over 400 individual rock towers, some reaching heights of 40 meters.\n\nVisitors can explore well-marked hiking trails of varying difficulty, making it perfect for both casual walkers and experienced hikers.\n\nDistance from resort: 10 km\nOpening hours: Open year-round, 8:00 - 18:00 (summer), 8:00 - 16:00 (winter)",
+        "location": "Prachov 37, 506 01 Jičín"
+      },
+      "3": {
+        "title": "Turnov",
+        "description": "Visit the charming town known for its glassmaking and historical sites.",
+        "fullDescription": "Turnov is a historic town located in the heart of Bohemian Paradise, known as the center of gemstone cutting and jewelry making in the Czech Republic.\n\nThe town features a charming historic center with Renaissance and Baroque buildings. Visitors can explore the Museum of Bohemian Paradise, which houses an impressive collection of gemstones and jewelry.\n\nDon't miss the Synagogue, St. Nicholas Church, and the beautiful town square. Turnov is also an excellent base for exploring the surrounding natural attractions.\n\nDistance from resort: 20 km\nMain attractions: Museum of Bohemian Paradise, Dlaskův statek (folk architecture)",
+        "location": "Turnov, 511 01"
+      },
+      "4": {
+        "title": "Valdštejn Castle",
+        "description": "Discover the ruins of this medieval castle with panoramic views of the countryside.",
+        "fullDescription": "Valdštejn Castle is the oldest castle in the Bohemian Paradise region, founded in the 13th century by the Markvartic family.\n\nThe castle is built on sandstone rocks and connected by a stone bridge with statues of saints. Inside, visitors can explore the chapel of St. John of Nepomuk, the Classical House, and enjoy magnificent views of the surrounding landscape.\n\nThe castle hosts various cultural events, medieval festivals, and exhibitions throughout the year.\n\nDistance from resort: 18 km\nOpening hours: 9:00 - 17:00 (April to October)",
+        "location": "Turnov - Pelešany, 511 01"
+      },
+      "5": {
+        "title": "Jičín Castle",
+        "description": "Explore the historic castle in Jičín, known for its beautiful architecture and gardens.",
+        "fullDescription": "Jičín Castle, located in the heart of Jičín town, was built in the early 17th century by Albrecht von Wallenstein, a famous military commander.\n\nThe castle features beautiful Renaissance and Baroque architecture. Today, it houses the Regional Museum and Gallery of Jičín, which showcases the history of the region and art exhibitions.\n\nThe castle is connected to the main square by a covered arcade, and nearby you can find the beautiful Wallenstein Loggia and gardens.\n\nDistance from resort: 2 km\nOpening hours: 9:00 - 17:00 (Tuesday to Sunday)",
+        "location": "Valdštejnovo náměstí 1, 506 01 Jičín"
+      },
+      "6": {
+        "title": "Fairytale Town of Jičín",
+        "description": "Discover the charming town of Jičín, famous for its fairy tale connections and beautiful square.",
+        "fullDescription": "Jičín is known as the \"Fairytale Town\" due to its connection with the famous Czech fairy tale character Rumcajs, created by writer Václav Čtvrtek.\n\nThe town features a beautiful main square with colorful Renaissance and Baroque houses, dominated by the Valdice Gate tower. Visitors can climb the tower for panoramic views of the town and surrounding countryside.\n\nEvery September, Jičín hosts the popular \"Jičín - Town of Fairy Tales\" festival, attracting thousands of visitors with performances, workshops, and fairy tale characters.\n\nDistance from resort: 1 km\nMain attractions: Valdice Gate, Wallenstein Square, St. James Church",
+        "location": "Jičín, 506 01"
+      }
+    }
+  }
+}
